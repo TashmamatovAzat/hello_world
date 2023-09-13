@@ -1,2 +1,4 @@
 # This command will print some text
-print('HELL YEAH')
+text = 'HELL YEAH'
+print(text)
+
